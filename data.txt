@@ -1,0 +1,30 @@
+Alamat dari Restoran 'The Diving Pelican' adalah di jalan Mangga nomor 24, Lampriet, Banda Aceh.
+
+Jadwal restoran buka pada jam 8 pagi sampai jam 10 malam.
+
+Daftar menu yang disediakan adalah berikut
+- Makanan : Nasi goreng, Mie goreng, Woku ikan tenggiri, Kepiting bumbu lada hitam, Steam Nyonya
+- Minuman : Teh manis, Jus buah, Teh tarik jelly, Sawi mix nenas, Aloevera, Air mineral.
+
+Makanan yang disediakan adalah Nasi goreng, Mie goreng, Woku ikan tenggiri, Kepiting bumbu lada hitam, Steam Nyonya.
+
+Minuman yang disediakan adalah Teh manis, Jus buah, Teh tarik jelly, Sawi mix nenas, Aloevera, Air mineral.
+
+Harga Nasi goreng = 15000 rupiah.
+Harga Mie goreng = 12000 rupiah.
+Harga Woku ikan tenggiri = 224000 rupiah.
+Harga Kepiting bumbu lada hitam = 80000 rupiah.
+Harga Steam Nyonya = 230000 rupiah.
+
+Harga Teh manis = 7000 rupiah.
+Harga Jus buah = 18000 rupiah.
+Harga Teh tarik jelly = 20000 rupiah.
+Harga Sawi mix nenas = 28000 rupiah.
+Harga Aloevera = 28000 rupiah.
+Harga Air mineral = 5000 rupiah.
+
+Format booking tempat :
+
+[Booking Tempat]
+Nama :
+Waktu : (ex: Senin, 12-01-2021, 21.00).
