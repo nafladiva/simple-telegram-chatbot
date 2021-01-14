@@ -4,7 +4,7 @@ from chatbot import bot_initialize
 
 class telegram_bot():
     def __init__(self):
-        self.token = "1473377957:AAFV3Dt1CRoQ8nOFZO-AQK2u9fC2F0RKljs"  #fill with your token here!
+        self.token = "1473377957:AAFV3Dt1CRoQ8nOFZO-XXXXXXXXXXXXXXXX"  #fill with your token here!
         self.url = f"https://api.telegram.org/bot{self.token}"
 
     def get_updates(self,offset=None):
